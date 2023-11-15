@@ -1,0 +1,32 @@
+{
+  "name": "dcbot",
+  "version": "2.0.0",
+  "description": "Discord bot.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanwashere/mta-dcJS.git"
+  },
+  "keywords": [
+    "mta",
+    "gta",
+    "discordapp",
+    "bot",
+    "client"
+  ],
+  "author": "romanwashere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romanwashere/mta-dcJS/issues"
+  },
+  "homepage": "https://github.com/romanwashere/mta-dcJS#readme",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.8.0",
+    "fastest-levenshtein": "^1.0.16"
+  }
+}

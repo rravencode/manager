@@ -1,0 +1,14 @@
+{
+  "discord": {
+    "token": "",
+    "id": ""
+  },
+  "guild": {
+    "id": "",
+    "role": {
+      "owner": "",
+	  "team": "",
+      "abone": ""
+    }
+  }
+}
